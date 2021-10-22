@@ -69,7 +69,8 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:KbellX/KbellX.github.io.git
+  # repo: git@github.com:KbellX/KbellX.github.io.git
+  repo: git@119.91.98.230:/data/blog/blog.git
   branch: master  
 
 # RSS订阅支持
